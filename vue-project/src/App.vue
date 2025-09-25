@@ -1,6 +1,6 @@
 <script setup lang="ts">
+import BannerImage from './components/BannerImage.vue';
 import NavBar from './components/NavBar.vue'
-import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
@@ -9,7 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
   </header>
 
   <main>
-    <TheWelcome />
+    <BannerImage />
   </main>
 </template>
 

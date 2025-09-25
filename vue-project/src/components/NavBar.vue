@@ -1,6 +1,6 @@
 <template>
   <nav class="bg-[#27568B] flex items-center justify-between p-4">
-    <h1 class="text-white text-3xl font-extrabold font-lato">
+    <h1 class="text-white text-3xl font-extrabold">
       <a href="#">
       <span class="italic">Kies</span>Inzicht
       </a>
