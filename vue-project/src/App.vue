@@ -1,20 +1,20 @@
 <script setup lang="ts">
-import BannerImage from './components/BannerImage.vue';
-import Footer from './components/Footer.vue';
-import NavBar from './components/NavBar.vue'
+  import NavBar from './components/NavbarComponent.vue';
+  import heroimage from './components/HeroComponent.vue';
+  import FooterComponent from './components/FooterComponent.vue';
 </script>
 
 <template>
   <header>
-    <nav-bar />
+    <NavBar />
   </header>
 
   <main>
-    <BannerImage />
+    <heroimage />
   </main>
 
   <footer>
-    <Footer />
+    <FooterComponent />
   </footer>
 </template>
 
