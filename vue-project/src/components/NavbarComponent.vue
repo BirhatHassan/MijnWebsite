@@ -14,8 +14,8 @@
     </div>
 
     <!--This is for the account part of the page-->
-    <div class="flex justify-end mr-5 items-center">
-      <p class="bg-[#27568B] text-white px-10 py-[7px] rounded-[15px] text-[15px] cursor-pointer hover:bg-[#2d4157]">INLOGGEN</p>
+    <div class="flex justify-end mr-5 items-center mt-1">
+      <p class="bg-[#27568B] text-white px-7 py-[7px] rounded-[15px] text-[15px] cursor-pointer hover:bg-[#2d4157]">INLOGGEN</p>
     </div>
   </nav>
 </template>

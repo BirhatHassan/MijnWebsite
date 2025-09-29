@@ -2,6 +2,7 @@
   import NavBar from './components/NavbarComponent.vue';
   import heroimage from './components/HeroComponent.vue';
   import FooterComponent from './components/FooterComponent.vue';
+import ContentComponent from './components/ContentComponent.vue';
 </script>
 
 <template>
@@ -11,6 +12,7 @@
 
   <main>
     <heroimage />
+    <ContentComponent />
   </main>
 
   <footer>

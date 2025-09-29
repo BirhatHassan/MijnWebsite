@@ -9,10 +9,10 @@
         Op <span class="text-[#72A3D9]">KiesInzicht</span> ontdek je hoe stemmen werken, vorm je je eigen mening en lees je alles over de afgelopen verkiezingen.
       </p>
       <div class="text-[21px] flex flex-row gap-x-4 text-white mt-5 flex-nowrap">
-        <p class="px-6 py-3 bg-[#27568B] text-white rounded-[15px] cursor-pointer hover:bg-[#2d4157]">
+        <p class="px-6 py-[10px] bg-[#27568B] text-white rounded-[15px] cursor-pointer hover:bg-[#2d4157]">
           Bekijk de verkiezingsuitslagen
         </p>
-        <p class="px-6 py-3 bg-white rounded-[15px] text-[#27568B] cursor-pointer hover:bg-gray-200">
+        <p class="px-6 py-[10px] bg-white rounded-[15px] text-[#27568B] cursor-pointer hover:bg-gray-200">
           Ga naar het forum
         </p>
       </div>
