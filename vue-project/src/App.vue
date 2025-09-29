@@ -2,7 +2,7 @@
   import NavBar from './components/NavbarComponent.vue';
   import heroimage from './components/HeroComponent.vue';
   import FooterComponent from './components/FooterComponent.vue';
-import ContentComponent from './components/ContentComponent.vue';
+// import ContentComponent from './components/ContentComponent.vue';
 </script>
 
 <template>
@@ -12,7 +12,6 @@ import ContentComponent from './components/ContentComponent.vue';
 
   <main>
     <heroimage />
-    <ContentComponent />
   </main>
 
   <footer>

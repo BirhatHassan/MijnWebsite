@@ -10,7 +10,7 @@
 
     <!-- Right: copyright -->
     <p class="text-white">
-      © 2024 KiesInzicht. Alle rechten voorbehouden.
+      © 2025 KiesInzicht. Alle rechten voorbehouden.
     </p>
   </div>
 </footer>

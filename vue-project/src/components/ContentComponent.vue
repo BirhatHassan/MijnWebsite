@@ -9,7 +9,7 @@
       <!-- Features grid -->
       <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
         <!-- Feature 1 -->
-        <div class="flex flex-col items-center text-start p-6 bg-gray-50 rounded-xl shadow hover:shadow-lg transition">
+        <div class="flex flex-col items-center text-start p-6 bg-gray-100 rounded-xl shadow hover:shadow-lg transition">
           <h3 class="text-xl font-semibold mb-2">Stemwijzer</h3>
           <p class="text-gray-600">
             Vergelijk partijen en ontdek welke het meest bij jou past.
@@ -17,7 +17,7 @@
         </div>
 
         <!-- Feature 2 -->
-        <div class="flex flex-col items-center text-start p-6 bg-gray-50 rounded-xl shadow hover:shadow-lg transition">
+        <div class="flex flex-col items-center text-start p-6 bg-gray-100 rounded-xl shadow hover:shadow-lg transition">
           <h3 class="text-xl font-semibold mb-2 text-start">Partijen</h3>
           <p class="text-gray-600">
             Bekijk partijen, ontdek informatie, kandidaten en hun standpunten.
@@ -25,7 +25,7 @@
         </div>
 
         <!-- Feature 3 -->
-        <div class="flex flex-col items-center text-start p-6 bg-gray-50 rounded-xl shadow hover:shadow-lg transition">
+        <div class="flex flex-col items-center text-start p-6 bg-gray-100 rounded-xl shadow hover:shadow-lg transition">
           <h3 class="text-xl font-semibold mb-2">Forum</h3>
           <p class="text-gray-600">
             Lees en discussieer over actuele onderwerpen.
@@ -33,7 +33,7 @@
         </div>
 
         <!-- Feature 4 -->
-        <div class="flex flex-col items-center text-start p-6 bg-gray-50 rounded-xl shadow hover:shadow-lg transition">
+        <div class="flex flex-col items-center text-start p-6 bg-gray-100 rounded-xl shadow hover:shadow-lg transition">
           <h3 class="text-xl font-semibold mb-2">Uitslagen</h3>
           <p class="text-gray-600">
             Bekijk de resultaten van vorige verkiezingen.
