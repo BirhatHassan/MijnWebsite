@@ -6,10 +6,10 @@
 
     <div class="flex justify-end items-center mt-2">
       <ul class="flex flex-row justify-end gap-x-10 -mr-130 text-[15px] font-medium cursor-pointer">
-        <li class="hover:bg-gray-200">STEMWIJZER</li>
-        <li>PARTIJEN</li>
-        <li>FORUM</li>
-        <li>UITSLAGEN</li>
+        <li class="hover:underline">STEMWIJZER</li>
+        <li class="hover:underline">PARTIJEN</li>
+        <li class="hover:underline">FORUM</li>
+        <li class="hover:underline">UITSLAGEN</li>
       </ul>
     </div>
 
